@@ -164,58 +164,19 @@ PostMVP
 
 Project Schedule
 
-
-| Day | Deliverable | Status
-
-|August 17| Project Approval | Build HTML Boilerplate | Begin building core javscript structure | Incomplete
-
-|August 18| Continue building out core app functionality| Start on CSS | Incomplete
-
-|August 19| Finish up CSS | Media queries | Begin Post MVP features | Incomplete
-
-|August 20| Continue Post MVP features/Compare feature/Incorporate second API | Incomplete
-
-|August 21| Presentations | Incomplete
+| Day | Deliverable | Status | 
+| --- | :---: |  :---: |
+|August 17| Project Approval | Build HTML Boilerplate | Begin building core javscript structure | Incomplete |
+|August 18| Continue building out core app functionality| Start on CSS | Incomplete |
+|August 19| Finish up CSS | Media queries | Begin Post MVP features | Incomplete |
+|August 20| Continue Post MVP features/Compare feature/Incorporate second API | Incomplete |
+|August 21| Presentations | Incomplete |
 
 Priority Matrix
 
 https://app.lucidchart.com/invitations/accept/b2815a7f-b1e5-495e-8f99-a7a3eeeb66f3
 
 Timeframes
-
-| Component ----|--- Priority | Estimated Time | Time Invested | Actual Time |
-
-| HTML BP ------|--- H -------| 2 hrs ---------|---------------|------------ |
-
-| Core JS Code --|--- H ------| 3 hrs ---------|----------------|----------- |
-
-| Core JS Code --|--- H ------| 3 hrs ---------|----------------|----------- |
-
-| Debugging JS --|--- H ------| 3 hrs ---------|---------------|------------ |
-
-| Debugging JS --|--- H ------| 3 hrs ---------|---------------|------------ |
-
-| Basic CSS -----|--- H ------| 3 hrs ---------|---------------|------------ |
-
-| Basic CSS -----|--- H ------| 3 hrs ---------|---------------|------------ |
-
-| MediaQueries --|--- H ------| 3 hrs ---------|---------------|------------ |
-
-| MediaQueries --|--- H ------| 3 hrs ---------|---------------|------------ |
-
-| High lvl CSS ---|--- M -----| 3 hrs ---------|---------------|------------ |
-
-| High lvl CSS ---|--- M -----| 3 hrs ---------|---------------|------------ |
-
-| Compare ------|--- L -------| 3 hrs ---------|---------------|------------ |
-
-| Compare ------|--- L -------| 3 hrs ---------|---------------|------------ |
-
-| 2nd API -------|--- L ------| 3 hrs ---------|---------------|------------ |
-
-| 2nd API -------|--- L ------| 3 hrs ---------|---------------|------------ |
-
-| Total ----------|--- H -----| 44 hrs ---------|---------------|----------- |
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
