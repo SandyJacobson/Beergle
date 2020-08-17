@@ -1,11 +1,5 @@
 # Beergle
 
-Beergle
-
-The Search Engine for Beer
-
-Project Overview
-
 Project Name
 
 Beergle
