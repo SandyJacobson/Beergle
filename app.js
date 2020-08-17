@@ -1,5 +1,5 @@
-const getBeers = async () => {
-  const url = `https://api.punkapi.com/v2/beers`
+const getBeers = async (beer_name) => {
+  const url = `https://api.punkapi.com/v2/beers/${beer_name}`
   try {
   const res = await axios.get(url)
     console.log(res)
