@@ -1,5 +1,5 @@
-const getBeers = async (beer_name) => {
-  const url = `https://api.punkapi.com/v2/beers/${beer_name}`
+const getBeers = async (beer) => {
+  const url = `https://api.punkapi.com/v2/beers?beer_name=${beer}`
   try {
   const res = await axios.get(url)
     console.log(res)
@@ -34,3 +34,4 @@ submit.addEventListener('click', (e) => {
 
   getBeers(inputValue)
 })
+
