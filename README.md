@@ -195,25 +195,25 @@ Timeframes
 
 | Debugging JS --|--- H | 3 hrs | | |
 
-| Basic CSS ----|--- H | 3 hrs | | |
+| Basic CSS -----|--- H | 3 hrs | | |
 
-| Basic CSS ----|--- H | 3 hrs | | |
-
-| MediaQueries --|--- H | 3 hrs | | |
+| Basic CSS -----|--- H | 3 hrs | | |
 
 | MediaQueries --|--- H | 3 hrs | | |
 
-| High lvl CSS --|--- M | 3 hrs | | |
+| MediaQueries --|--- H | 3 hrs | | |
 
-| High lvl CSS --|--- M | 3 hrs | | |
+| High lvl CSS ---|--- M | 3 hrs | | |
+
+| High lvl CSS ---|--- M | 3 hrs | | |
 
 | Compare ------|--- L | 3 hrs | | |
 
 | Compare ------|--- L | 3 hrs | | |
 
-| 2nd API ------|--- L | 3 hrs | | |
+| 2nd API -------|--- L | 3 hrs | | |
 
-| 2nd API ------|--- L | 3 hrs | | |
+| 2nd API -------|--- L | 3 hrs | | |
 
 | Total --------|--- H | 44 hrs | | |
 
