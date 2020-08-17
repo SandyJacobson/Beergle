@@ -219,6 +219,29 @@ Timeframes
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
+| HTML BP | H | 2hrs|  |  |
+| Core JS Code | H | 3hrs|  |  |
+| Core JS Code | H | 3hrs|  |  |
+| Debugging JS | H | 3hrs| |  |
+| Debugging JS | H | 3hrs| |  |
+| Basic CSS | H | 3hrs|  |  |
+| Basic CSS | H | 3hrs|  |  |
+| Mediaqueries | H | 3hrs|  |  |
+| Mediaqueries | H | 3hrs|  |  |
+| High level CSS | M | 3hrs| |  |
+| High level CSS | M | 3hrs| |  |
+| Compare Function | L | 3hrs|  |  |
+| Compare Function | L | 3hrs|  |  |
+| 2nd API | L | 3hrs|  |  |
+| 2nd API | L | 3hrs|  |  |
+| Total | H | 3hrs|  |  |
+
+
+
+
+
+| Component | Priority | Estimated Time | Time Invested | Actual Time |
+| --- | :---: |  :---: | :---: | :---: |
 | Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
 | Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
 | Total | H | 6hrs| 5hrs | 5hrs |
