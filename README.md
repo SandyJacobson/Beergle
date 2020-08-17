@@ -199,14 +199,6 @@ Timeframes
 
 
 
-
-
-| Component | Priority | Estimated Time | Time Invested | Actual Time |
-| --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
-
 Code Snippet
 
 Use this section to include a brief code snippet of functionality that you are proud of and a brief description.
