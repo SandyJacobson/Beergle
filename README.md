@@ -183,39 +183,39 @@ https://app.lucidchart.com/invitations/accept/b2815a7f-b1e5-495e-8f99-a7a3eeeb66
 
 Timeframes
 
-| Component | Priority | Estimated Time | Time Invested | Actual Time |
+| Component ----|--- Priority | Estimated Time | Time Invested | Actual Time |
 
-| HTML BP                               | H | 2 hrs | | |
+| HTML BP ------|--- H | 2 hrs | | |
 
-| Core JS Code                          | H | 3 hrs | | |
+| Core JS Code -|--- H | 3 hrs | | |
 
-| Core JS Code                          | H | 3 hrs | | |
+| Core JS Code -|--- H | 3 hrs | | |
 
-| Debugging JS                          | H | 3 hrs | | |
+| Debugging JS -|--- H | 3 hrs | | |
 
-| Debugging JS                          | H | 3 hrs | | |
+| Debugging JS -|--- H | 3 hrs | | |
 
-| Basic CSS                             | H | 3 hrs | | |
+| Basic CSS ----|--- H | 3 hrs | | |
 
-| Basic CSS                             | H | 3 hrs | | |
+| Basic CSS ----|--- H | 3 hrs | | |
 
-| MediaQueries                          | H | 3 hrs | | |
+| MediaQueries -|--- H | 3 hrs | | |
 
-| MediaQueries                          | H | 3 hrs | | |
+| MediaQueries -|--- H | 3 hrs | | |
 
-| High lvl CSS                          | M | 3 hrs | | |
+| High lvl CSS -|--- M | 3 hrs | | |
 
-| High lvl CSS                          | M | 3 hrs | | |
+| High lvl CSS -|--- M | 3 hrs | | |
 
-| Compare                               | L | 3 hrs | | |
+| Compare ------|--- L | 3 hrs | | |
 
-| Compare                               | L | 3 hrs | | |
+| Compare ------|--- L | 3 hrs | | |
 
-| 2nd API                               | L | 3 hrs | | |
+| 2nd API ------|--- L | 3 hrs | | |
 
-| 2nd API                               | L | 3 hrs | | |
+| 2nd API ------|--- L | 3 hrs | | |
 
-| Total                                 | H | 44 hrs | | |
+| Total --------|--- H | 44 hrs | | |
 
 Code Snippet
 
