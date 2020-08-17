@@ -28,11 +28,25 @@ https://wireframe.cc/Gyiwc4
 
 MVP
 
-My main MVP is to have a functioning website, that looks nice. I want people to be able to search for their favorite beverages and have easy and digestible data populate for them.
+
+- My main MVP is to have a functioning website. 
+
+
+- Aside from the flexbox/mediaquery requirements. I want to incorporate a CSS structure that is simple and pretty.
+
+
+- I want people to be able to search for their favorite beverages and have easy and digestible data populate for them.
+
+
 PostMVP
 
-Add a compare feature
-Incorporate a second API to make the website search library include cocktails and spirits, as well as beer.
+
+- Add a compare feature
+
+
+- Incorporate a second API to make the website search library include cocktails and spirits, as well as beer.
+
+
 Project Schedule
 
 This schedule will be used to keep track of your progress throughout the week and align with our expectations.
@@ -59,23 +73,37 @@ Timeframes
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 
-| HTML BP | H | 1 hrs | | |
+| HTML BP | H | 2 hrs | | |
+
+| Core JS Code| H | 3 hrs | | |
 
 | Core JS Code| H | 3 hrs | | |
 
 | Debugging JS| H | 3 hrs | | |
 
-| Basic CSS | H | 3 hrs | | |
+| Debugging JS| H | 3 hrs | | |
+
+| Basic CSS   | H | 3 hrs | | |
+
+| Basic CSS   | H | 3 hrs | | |
+
+| MediaQueries| H | 3 hrs | | |
 
 | MediaQueries| H | 3 hrs | | |
 
 | High lvl CSS| M | 3 hrs | | |
 
-| Compare | L | 3 hrs | | |
+| High lvl CSS| M | 3 hrs | | |
 
-| 2nd API | L | 3 hrs | | |
+| Compare     | L | 3 hrs | | |
 
-| Total | H | 22 hrs | | |
+| Compare     | L | 3 hrs | | |
+
+| 2nd API     | L | 3 hrs | | |
+
+| 2nd API     | L | 3 hrs | | |
+
+| Total       | H | 44 hrs | | |
 
 Code Snippet
 
