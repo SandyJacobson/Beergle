@@ -2,8 +2,6 @@ const getBeers = async (beer) => {
   const url = `https://api.punkapi.com/v2/beers?beer_name=${beer}`
   try {
   const res = await axios.get(url)
-    console.log(res)
-    console.log(res.data)
     let data = res.data
     removeBeer()
     showBeerData(data)
