@@ -166,8 +166,8 @@ Project Schedule
 
 | Day | Deliverable | Status | 
 | --- | :---: |  :---: |
-|August 17| Project Approval | Build HTML Boilerplate | Begin building core javscript structure | Incomplete |
-|August 18| Continue building out core app functionality| Start on CSS | Incomplete |
+|August 17| Project Approval | Build HTML Boilerplate | Begin building core javscript structure | Complete |
+|August 18| Continue building out core app functionality| Start on CSS | Complete |
 |August 19| Finish up CSS | Media queries | Begin Post MVP features | Incomplete |
 |August 20| Continue Post MVP features/Compare feature/Incorporate second API | Incomplete |
 |August 21| Presentations | Incomplete |
@@ -180,13 +180,13 @@ Timeframes
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| HTML BP | H | 2hrs|  |  |
-| Core JS Code | H | 3hrs|  |  |
-| Core JS Code | H | 3hrs|  |  |
-| Debugging JS | H | 3hrs| |  |
-| Debugging JS | H | 3hrs| |  |
-| Basic CSS | H | 3hrs|  |  |
-| Basic CSS | H | 3hrs|  |  |
+| HTML BP | H | 2hrs| 1hr | 1hr  |
+| Core JS Code | H | 3hrs| 2hrs | 2hrs |
+| Core JS Code | H | 3hrs| 2hrs | 2hrs |
+| Debugging JS | H | 3hrs| 3hrs | 3hrs |
+| Debugging JS | H | 3hrs| 3hrs| 3hrs |
+| Basic CSS | H | 3hrs| 3hrs | 3hrs |
+| Basic CSS | H | 3hrs| 4hrs | 4hrs |
 | Mediaqueries | H | 3hrs|  |  |
 | Mediaqueries | H | 3hrs|  |  |
 | High level CSS | M | 3hrs| |  |
