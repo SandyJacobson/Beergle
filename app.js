@@ -5,6 +5,7 @@ const getBeers = async (beer) => {
     console.log(res)
     console.log(res.data)
     let data = res.data
+    removeBeer()
     showBeerData(data)
     return res
     } catch (error) {
@@ -19,8 +20,10 @@ const getBeers = async (beer) => {
   const showBeerData = (data) => {
     data.forEach(beers => {
       let BeerInfo = `
-      <img id="poster" src="${beers.image_url}" alt='${beers.name}' style="width: 400px; height: auto;">
+      <img id='poster' src="${beers.image_url}" alt='${beers.name}' style="width: 400px; height: auto;">
       <h2 id='title'>${beers.name}</h2>
+      <h4 id='abv'>${beers.abv}<h4>
+      <h5 id='food-pairing'>${beers.food_pairing}<h5>
       `
       document.querySelector('.beer-list').insertAdjacentHTML('beforeend', BeerInfo)
     })
@@ -35,3 +38,9 @@ submit.addEventListener('click', (e) => {
   getBeers(inputValue)
 })
 
+const removeBeer = () => {
+  const oldPic = document.querySelector('.beer-list')
+  while (oldPic.lastChild) {
+    oldPic.removeChild(oldPic.lastChild)
+  }
+}
