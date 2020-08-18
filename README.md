@@ -165,11 +165,11 @@ PostMVP
 Project Schedule
 
 | Day | Deliverable | Status | 
-| --- | :---: |  :---: |
-|August 17| Project Approval | Build HTML Boilerplate | Begin building core javscript structure | Complete |
-|August 18| Continue building out core app functionality| Start on CSS | Complete |
-|August 19| Finish up CSS | Media queries | Begin Post MVP features | Incomplete |
-|August 20| Continue Post MVP features/Compare feature/Incorporate second API | Incomplete |
+| --- | :---: |  :---: | :---: |
+|August 17| Project Approval/Build HTML Boilerplate | Begin building core javscript structure | Complete |
+|August 18| Continue building out core app functionality | Start on CSS | Complete |
+|August 19| Finish up CSS/Media queries | Begin Post MVP features | Incomplete |
+|August 20| Continue Post MVP features | Compare feature/Incorporate second API | Incomplete |
 |August 21| Presentations | Incomplete |
 
 Priority Matrix
