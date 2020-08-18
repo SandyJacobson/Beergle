@@ -18,10 +18,12 @@ const getBeers = async (beer) => {
   const showBeerData = (data) => {
     data.forEach(beers => {
       let BeerInfo = `
-      <img id='poster' src="${beers.image_url}" alt='${beers.name}' style="width: 400px; height: auto;">
-      <h2 id='title'>${beers.name}</h2>
-      <h4 id='abv'>${beers.abv}<h4>
-      <h5 id='food-pairing'>${beers.food_pairing}<h5>
+      <div class='beer'>
+        <h2 id='title'>${beers.name}</h2>
+        <h4 id='abv'>${beers.abv}% abv</h4>
+        <h5 id='food-pairing'>${beers.food_pairing}</h5>
+        <img id='beer-image' src="${beers.image_url}" alt='${beers.name}'>
+      </div>
       `
       document.querySelector('.beer-list').insertAdjacentHTML('beforeend', BeerInfo)
     })
