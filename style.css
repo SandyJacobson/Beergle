@@ -32,8 +32,8 @@ h2 {
 #beer-image{
   width: 100px;
   height: 275px;
+  margin: 0 0 0 100px;
   display: flex;
-  justify-content: center;
 }
 
 .beer-list {
@@ -51,6 +51,25 @@ h2 {
   flex-direction: column;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+.beer h2 {
+  margin: 19.920px 0 0 0;
+}
+
+.beer h4 {
+  margin: 10px 0 0 100px;
+}
+
+.beer h5 {
+  margin: 10px 0 22.178px 0;
+}
+
+@media (max-width: 500px) {
+  .beer-image{
+    width: 100px;
+    height: auto;
+  }
 }
 
 
