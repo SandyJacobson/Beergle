@@ -66,9 +66,12 @@ h2 {
 }
 
 @media (max-width: 500px) {
-  .beer-image{
-    width: 100px;
-    height: auto;
+  #beer-image{
+    width: 50%;
+    height: 50%;
+    margin: 0 0 0 75px;
+    display: flex;
+    justify-content: center;
   }
 }
 
