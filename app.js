@@ -44,3 +44,5 @@ const removeBeer = () => {
     oldPic.removeChild(oldPic.lastChild)
   }
 }
+
+

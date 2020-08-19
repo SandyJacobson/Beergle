@@ -43,7 +43,7 @@ h2 {
 }
 
 .beer {
-  /* border: 2px solid black; */
+  border: 2px solid black;
   margin: 0 30px 30px 30px;
   /* background-color: rgba(29, 149, 240); */
   width: 300px;
@@ -63,6 +63,7 @@ h2 {
 
 .beer h5 {
   margin: 10px 0 22.178px 0;
+  text-align: center;
 }
 
 @media (max-width: 500px) {

@@ -168,7 +168,7 @@ Project Schedule
 | --- | :---: |  :---: |
 |August 17| Project Approval/Build HTML Boilerplate/Begin building core javscript structure | Complete |
 |August 18| Continue building out core app functionality/Start on CSS | Complete |
-|August 19| Finish up CSS/Media queries/Begin Post MVP features | Incomplete |
+|August 19| Finish up CSS/Media queries/Begin Post MVP features | Complete |
 |August 20| Continue Post MVP features/Compare feature/Incorporate second API | Incomplete |
 |August 21| Presentations | Incomplete |
 
@@ -187,8 +187,8 @@ Timeframes
 | Debugging JS | H | 3hrs| 3hrs| 3hrs |
 | Basic CSS | H | 3hrs| 3hrs | 3hrs |
 | Basic CSS | H | 3hrs| 4hrs | 4hrs |
-| Mediaqueries | H | 3hrs|  |  |
-| Mediaqueries | H | 3hrs|  |  |
+| Mediaqueries | H | 3hrs| 3hrs | 3hrs |
+| Mediaqueries | H | 3hrs| 3hrs | 3hrs |
 | High level CSS | M | 3hrs| |  |
 | High level CSS | M | 3hrs| |  |
 | Compare Function | L | 3hrs|  |  |
