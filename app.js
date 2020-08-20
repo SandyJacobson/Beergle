@@ -21,7 +21,7 @@ const getBeers = async (beer) => {
       <div class='beer'>
         <h2 id='title'>${beers.name}</h2>
         <h4 id='abv'>${beers.abv}% abv</h4>
-        <h5 id='food-pairing'>${beers.food_pairing}</h5>
+        <h5 id='food-pairing'>Food pairing: ${beers.food_pairing}</h5>
         <img id='beer-image' src="${beers.image_url}" alt='${beers.name}'>
       </div>
       `
@@ -34,8 +34,10 @@ const getBeers = async (beer) => {
 submit.addEventListener('click', (e) => {
   e.preventDefault()
   const inputValue = document.querySelector('input').value
-
+  
   getBeers(inputValue)
+  const clearInput = document.querySelector('input')
+  clearInput.value = ""
 })
 
 const removeBeer = () => {
