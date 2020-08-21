@@ -169,7 +169,7 @@ Project Schedule
 |August 17| Project Approval/Build HTML Boilerplate/Begin building core javscript structure | Complete |
 |August 18| Continue building out core app functionality/Start on CSS | Complete |
 |August 19| Finish up CSS/Media queries/Begin Post MVP features | Complete |
-|August 20| Continue Post MVP features/Compare feature/Incorporate second API | Incomplete |
+|August 20| Continue Post MVP features/Compare feature/Incorporate second API | Complete |
 |August 21| Presentations | Incomplete |
 
 Priority Matrix
@@ -191,10 +191,10 @@ Timeframes
 | Mediaqueries | H | 3hrs| 3hrs | 3hrs |
 | High level CSS | M | 3hrs| |  |
 | High level CSS | M | 3hrs| |  |
-| Compare Function | L | 3hrs|  |  |
-| Compare Function | L | 3hrs|  |  |
-| 2nd API | L | 3hrs|  |  |
-| 2nd API | L | 3hrs|  |  |
+| Compare Function | L | 3hrs| 0 | 0 |
+| Compare Function | L | 3hrs| 0 | 0 |
+| 2nd API | L | 3hrs| 3hrs | 3hrs |
+| 2nd API | L | 3hrs| 3hrs | 3hrs |
 | Total | H | 3hrs|  |  |
 
 
@@ -202,6 +202,11 @@ Timeframes
 Code Snippet
 
 Use this section to include a brief code snippet of functionality that you are proud of and a brief description.
+
+<!-- const clearInput = document.querySelector('input')
+  clearInput.value = "" -->
+
+--- App was working well and I hit MVP but my input bar wouldn't clear when you searched. I spent a lot of time googling and on stackoverflow, trying different options. With some help from Raul I was able to get it working, and the most important part is how close I was to getting it on my own. If I had unlimited time and tried it own my own for a bit longer, I probably would have come to the answer without help. But it is good to know how close I was. 
 
 Change Log
 
