@@ -1,3 +1,4 @@
+// Async function to call API and assign data
 const getBeers = async (beer) => {
   const url = `https://api.punkapi.com/v2/beers?beer_name=${beer}`
   try {
@@ -12,9 +13,8 @@ const getBeers = async (beer) => {
   console.log('Enjoy your Beer!')
     }
   }
-  
-  //getBeers()
 
+  //DOM Manipulation function - creating new elements and appending API data to the DOM
   const showBeerData = (data) => {
     data.forEach(beers => {
       let BeerInfo = `
@@ -29,6 +29,7 @@ const getBeers = async (beer) => {
     })
   }
 
+// Adding my event listener on the click to display search results
   const submit = document.querySelector('#search')
 
 submit.addEventListener('click', (e) => {
@@ -40,6 +41,8 @@ submit.addEventListener('click', (e) => {
   clearInput.value = ""
 })
 
+
+// Function to clear previous results, once a new search is triggered
 const removeBeer = () => {
   const oldPic = document.querySelector('.beer-list')
   while (oldPic.lastChild) {

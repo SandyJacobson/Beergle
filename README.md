@@ -189,19 +189,17 @@ Timeframes
 | Basic CSS | H | 3hrs| 4hrs | 4hrs |
 | Mediaqueries | H | 3hrs| 3hrs | 3hrs |
 | Mediaqueries | H | 3hrs| 3hrs | 3hrs |
-| High level CSS | M | 3hrs| |  |
-| High level CSS | M | 3hrs| |  |
+| High level CSS | M | 3hrs| 1.5hrs | 1.5hrs |
+| High level CSS | M | 3hrs| 1.5hrs | 1.5hrs |
 | Compare Function | L | 3hrs| 0 | 0 |
 | Compare Function | L | 3hrs| 0 | 0 |
 | 2nd API | L | 3hrs| 3hrs | 3hrs |
 | 2nd API | L | 3hrs| 3hrs | 3hrs |
-| Total | H | 3hrs|  |  |
+| Total | H | 3hrs| 33hrs | 33hrs |
 
 
 
 Code Snippet
-
-Use this section to include a brief code snippet of functionality that you are proud of and a brief description.
 
 <!-- const clearInput = document.querySelector('input')
   clearInput.value = "" -->
@@ -210,5 +208,4 @@ Use this section to include a brief code snippet of functionality that you are p
 
 Change Log
 
-
-Use this section to document what changes were made and the reasoning behind those changes.
+I actually had no changes in my project. Everything thankfully went according to how I planned it. I did not have time to get to a compare feature and spent a very long time searching for a second API, but the were Post MVPs and I don't consider them changes. 
